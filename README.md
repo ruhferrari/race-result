@@ -1,6 +1,6 @@
 # Race Result file
 
-This file shows a ranking of a race based on a log. 
+This file shows a ranking of a race based on a log.
 
 ## Getting Started
 
@@ -18,7 +18,7 @@ After download, double click on race_result.xlsx.
 ## Running the tests
 
 To run some tests you can:
-* Change any value from Lap Time of any Pilot and see the changes on the Ranking Board.
+* On Log tab, change any value from Lap Time of any Pilot and see the changes on the Ranking Board of race_results tab.
 
 ## Built With
 

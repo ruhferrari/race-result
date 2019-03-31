@@ -1,6 +1,6 @@
 # Race Result file
 
-This file shows a ranking of a race based on a log.
+This file shows a ranking of a race based on a log. 
 
 ## Getting Started
 
@@ -9,11 +9,11 @@ The version available runs on Excel 2016+
 ### Prerequisites
 
 The prerequesites needed are:
-* Microsoft Excel 2010+
+* Microsoft Excel 2016+
 
 ## Running the file
 
-Double click.
+After download, double click on race_result.xlsx.
 
 ## Running the tests
 

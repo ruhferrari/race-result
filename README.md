@@ -4,12 +4,12 @@ This file shows a ranking of a race based on a log.
 
 ## Getting Started
 
-The version available runs on Excel 2010+
+The version available runs on Excel 2016+
 
 ### Prerequisites
 
 The prerequesites needed are:
-* Microsoft Excel 2010>
+* Microsoft Excel 2010+
 
 ## Running the file
 
@@ -18,7 +18,7 @@ Double click.
 ## Running the tests
 
 To run some tests you can:
-* Change any value from Time Lap of any Pilot and see the changes on the Ranking Board.
+* Change any value from Lap Time of any Pilot and see the changes on the Ranking Board.
 
 ## Built With
 
